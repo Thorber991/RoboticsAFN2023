@@ -1,2 +1,2 @@
 # RoboticsAFN2023
-FTC Tech for 2023 AFNohrt
+FTC Tech for 2023 AFNorth
