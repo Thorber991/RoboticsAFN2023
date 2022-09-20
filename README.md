@@ -1,8 +1,12 @@
 ## Robotics AFNorth 2023
 FTC Tech for 2023 AFNorth
+
 All code belonging to the AFNorth 2023 team will be added here. 
-Files will be named Main along with their use and purpose. Files without "Main" will be deemed disfunctional, and will not be used. Exceptions apply to testing files.
+
+Files will be named "Main", along with their use and purpose (See below). Files without "Main" will be deemed disfunctional, and will not be used. Exceptions apply to testing files.
+
 Author of files will initial their name behind the file name.
+
 Files will be labeled accordingly;
 - Testing
     - These are testing files, used to test different features for the robot
