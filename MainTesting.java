@@ -38,7 +38,7 @@ import com.qualcomm.robotcore.hardware.DcMotorEx;
 import com.qualcomm.robotcore.util.ElapsedTime;
 import com.qualcomm.robotcore.util.Range;
 
-@TeleOp(name="Handler Main Teleop", group="Linear Opmode")
+@TeleOp(name="Main Testing Teleop", group="Linear Opmode")
 
 public class MainTesting extends LinearOpMode {
 
