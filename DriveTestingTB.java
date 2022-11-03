@@ -39,7 +39,8 @@ public class DriveTestingTB extends LinearOpMode {
         RA.setMode(DcMotorEx.RunMode.RUN_USING_ENCODER);
         RF.setMode(DcMotorEx.RunMode.RUN_USING_ENCODER);
 
-        
+        // Add code for both sticks to the side omnidirectional driving
+        // Add code for tank driving, with gamepad sticks
 
 
 
