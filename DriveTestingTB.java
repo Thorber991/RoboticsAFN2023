@@ -18,10 +18,10 @@ public class DriveTestingTB extends LinearOpMode {
     private final DcMotorEx RA;
     private final DcMotorEx RF;
         // Misc Variables
-    private Float LP = gamepad1.left_axis_y
-    private Float RP = gamepad1.right_axis_y
-    private Float LO = gamepad1.left_axis_x
-    private Float RO = gamepad1.right_axis_x
+    private float LP = gamepad1.left_axis_y;
+    private float RP = gamepad1.right_axis_y;
+    private float LO = gamepad1.left_axis_x;
+    private float RO = gamepad1.right_axis_x;
 
 
     @Override
