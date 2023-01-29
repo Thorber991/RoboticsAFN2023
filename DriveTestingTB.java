@@ -55,17 +55,17 @@ public class DriveTestingTB extends LinearOpMode {
             RF.setPower(RP);
 
                 // Add code for both sticks to the side omnidirectional driving
-            if((LO&&RO) == -1) {
-                LA.setPower(-1)
-                LF.setPower(1)
-                RA.setPower(-1)
-                RF.setPower(1)
+            if(LO == -1&&LO == -1) { // Test direction, supposed to be left
+                LA.setPower(-1);
+                LF.setPower(1);
+                RA.setPower(-1);
+                RF.setPower(1);
             }
-            if((LO&&RO) == 1) {
-                LA.setPower(1)
-                LF.setPower(-1)
-                RA.setPower(1)
-                RF.setPower(-1)
+            if(LO == 1&&LO == 1) { // Test direction, supposed to be right
+                LA.setPower(1);
+                LF.setPower(-1);
+                RA.setPower(1);
+                RF.setPower(-1);
             }
 
 
